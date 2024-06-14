@@ -1,0 +1,12 @@
+Package: rewRI
+Title: Reference Interval Estimation from Re-Weighted BC or YJ Transformation
+Version: 0.0.1.0000
+Authors@R: 
+    person("Tobias", "Blatter", , "tobias.blatter@extern.insel.ch", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1.9000
+Imports: cellWise (>= 2.5.2)
