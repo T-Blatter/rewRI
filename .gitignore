@@ -2,3 +2,4 @@
 rewRI.Rproj
 .DS_Store
 .Rbuildignore
+.gitignore
